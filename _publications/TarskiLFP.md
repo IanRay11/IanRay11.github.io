@@ -3,7 +3,7 @@ title: "Tarski's least fixed point theorem: A predicative type theoretic formula
 collection: publications
 category: manuscripts
 permalink: /publication/TarskiLFP
-excerpt: 'We provide a type theoretic treatment of the paper "On Tarski's fixed point theorem" by Giovanni Curi.'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-01-01
 venue: 'Journal 1'
 slidesurl: ''
