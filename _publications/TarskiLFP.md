@@ -9,7 +9,7 @@ venue: 'Journal 1'
 slidesurl: ''
 paperurl: 'http://IanRay11.github.io/files/GitHub1stpub.pdf'
 bibtexurl: ''
-citation: 'Ray, Ian. (2024). Tarski's least fixed point theorem: A predicative type theoretic formulation.'
+citation: ''
 ---
 
 ---
