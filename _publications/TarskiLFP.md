@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2024-01-01
 venue: 'Journal 1'
 slidesurl: ''
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://IanRay11.github.io/files/GitHub1stpub.pdf'
 bibtexurl: ''
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
