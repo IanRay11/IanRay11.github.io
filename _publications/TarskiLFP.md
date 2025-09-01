@@ -7,7 +7,8 @@ excerpt: 'We provide a type theoretic treatment of the paper "On Tarski's fixed 
 date: 2024-01-01
 venue: ''
 slidesurl: ''
-paperurl: ''
+paperurl: 'files/GitHub1stpub.pdf'
 bibtexurl: ''
 citation: 'Ray, Ian. (2024). Tarski's least fixed point theorem: A predicative type theoretic formulation.'
 ---
+
