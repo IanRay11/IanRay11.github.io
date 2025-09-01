@@ -1,7 +1,7 @@
 ---
 title: "Tarski's least fixed point theorem: A predicative type theoretic formulation"
 collection: publications
-category: manuscripts
+category: preprints
 permalink: /publication/TarskiLFP
 excerpt: ''
 date: 2024-01-01
