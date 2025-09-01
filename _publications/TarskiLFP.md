@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Tarski's least fixed point theorem: A predicative type theoretic formulation"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
