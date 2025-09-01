@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Ian Ray / Site Title"
+title                    : "Ian Ray"
 title_separator          : "-"
 name                     : &name "Ian"
 description              : &description "PhD candidate at Indiana University Bloomington"
@@ -32,11 +32,11 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : https://arxiv.org/a/0009-0002-9732-8231
   googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : https://orcid.org/0009-0002-9732-8231
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
