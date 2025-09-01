@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/TarskiLFP
 excerpt: ''
 date: 2024-01-01
-venue: 'Journal 1'
+venue: 'arXiv'
 slidesurl: ''
 paperurl: 'http://IanRay11.github.io/files/GitHub1stpub.pdf'
 bibtexurl: ''
