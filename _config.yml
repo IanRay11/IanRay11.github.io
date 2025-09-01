@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Ian Ray / Site Title"
 title_separator          : "-"
 name                     : &name "Ian"
-description              : &description "PhD candidate at Indiana University Bloomington."
+description              : &description "PhD candidate at Indiana University Bloomington"
 url                      : https://IanRay11.github.io
 repository               : "IanRay11.github.io"
 
@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  pronouns         : "He/Him" 
+  bio              : "PhD candidate at Indiana University Bloomington. I am interested in ..."
+  location         : "Bloomington, IN"
+  employer         : "Indiana University Bloomington"
+  uri              : https://IanRay11.github.io
+  email            : "iaray@iu.edu" 
 
   # Academic websites
   academia         : # URL
