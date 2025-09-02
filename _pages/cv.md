@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, 2025 (expected)
+* Ph.D in Computer Science, Indiana University Bloomington 2025 (expected)
 * M.S. in Mathematics, Western Kentucky University, 2022
 * B.S. in Mathematics and Physics, Morehead State University, 2019
 
@@ -28,7 +28,7 @@ Work experience
   * Western Kentucky University
   * Duties includes: Lead recitation 
 
-* Fall 2015-2019: Department tutor
+* Fall 2015 - Fall 2019: Department tutor
   * Morehead State University
   * Duties included: Running math department tutoring lab
   * Supervisor: Denise Patrick
