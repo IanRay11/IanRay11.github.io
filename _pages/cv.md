@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Indiana University Bloomington 2025 (expected)
+* Ph.D in Computer Science, Indiana University Bloomington, 2025 (expected)
 * M.S. in Mathematics, Western Kentucky University, 2022
 * B.S. in Mathematics and Physics, Morehead State University, 2019
 
